@@ -1,11 +1,19 @@
-# Audio-Visual Large Language Models: A Comprehensive Survey
-> *Michael Shell, John Doe, Jane Doe*  
-> *Journal of LaTeX Class Files, Vol. 14, No. 8, August 2015*
+# A Survey on Audio-Visual Large Language Models (AV-LLMs)
 
-Welcome 👋  
-This repository accompanies **“A Survey on Audio-Visual Large Language Models (AV-LLMs)”**.  
-It gathers the paper, slides, key figures, dataset links and an evolving list of codebases.  
-If you work on multimodal AI that can **see + hear + read**, we hope this repo becomes a helpful launch-pad.
+> Official repository for the paper: **“A Survey on Audio-Visual Large Language Models”**  
+> Wenyi Yao, Roksana Yahyaabadi, Hossein Hassani, and Soodeh Nikan (Western University)
+
+[PDF](./paper/Survey-3.pdf) · [Project Page](#) · [Datasets CSV](./data/datasets_table.csv) · [Model List](./data/models.csv)
+
+---
+
+## ✨ Highlights
+- **First dedicated survey on AV-LLMs.** We position AV-LLMs as a distinct research line beyond VLMs.  
+- **Unified taxonomy.** We categorize by **modality scope**, **backbone origin**, and **generation objective**.  
+- **Datasets crosswalk.** A task→dataset mapping for image–text, video–text, audio–text, and audio–video–text.  
+- **Architecture & training.** Encoders, adapters/Q-Formers, tokenization, alignment objectives, instruction tuning.  
+- **Applications.** Audio/Video captioning, multimodal dialogue, cross-modal retrieval.  
+- **Challenges & Outlook.** Long-range temporal cost, hallucination mitigation, data alignment, safety & reliability.
 
 ---
 
@@ -53,7 +61,6 @@ They enable machines to reason over images, video, sound and text *simultaneousl
 * scene-aware dialog  
 * cross-modal generation (text → audio, video → caption, …)  
 
-This repository distills ☝️ our 30-page survey into reusable resources.
 
 ---
 
@@ -91,7 +98,7 @@ We group **43** public models into four archetypes:
 
 | Category | Representatives | One-line summary |
 |----------|-----------------|------------------|
-| **Extended multimodal** | IMAGEBIND, OneLLM, PandaGPT | Plug frozen encoders + lightweight adapters into an LLM |
+| **Model with addtional modalities** | IMAGEBIND, OneLLM, PandaGPT | Plug frozen encoders + lightweight adapters into an LLM |
 | **From-scratch** | VATT, MERLOT-Reserve, IMP | Jointly learn AV + T tokens end-to-end |
 | **Backbone-based Alignment** | VALOR, Video-SALMONN, Dolphin | Contrastive / Q-Former bridges between CLIP, Whisper & LLaMA |
 | **Any-to-Any Diffusion** | CoDi-2, NExT-GPT, C3Net | LLM conditions latent-diffusion for cross-modal generation |
@@ -133,11 +140,6 @@ GRAM, IMAGEBIND and CLIP4VLA align N modalities into a single embedding space fo
 
 ## 8. How to Cite
 ```bibtex
-@article{shell2015avllm,
-  title   = {A Survey on Audio-Visual Large Language Models},
-  author  = {Shell, Michael and Doe, John and Doe, Jane},
-  journal = {Journal of LaTeX Class Files},
-  volume  = {14},
   number  = {8},
   year    = {2015},
   note    = {arXiv:2404.xxxxx}
