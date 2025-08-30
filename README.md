@@ -3,7 +3,7 @@
 > Official repository for the paper: **“A Survey on Audio-Visual Large Language Models”**  
 > Wenyi Yao, Roksana Yahyaabadi, Hossein Hassani, and Soodeh Nikan (Western University)
 
-[PDF](./paper/Survey-3.pdf) · [Project Page](#) · [Datasets CSV](./data/datasets_table.csv) · [Model List](./data/models.csv)
+[PDF](./paper/Survey-3.pdf) · [Project Page](#) · [Datasets CSV](./pretraining-dataset.md) · [Model List](./data/models.csv)
 
 ---
 
