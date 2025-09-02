@@ -5,6 +5,8 @@
 
 [PDF](./paper/Survey-3.pdf) · [Project Page](#) · [Datasets CSV](./pretraining-dataset.md) · [Model List](./data/models.csv)
 
+![AV-LLMs timeline](figures/AV-LLMs.png)
+
 ---
 
 ## ✨ Highlights
