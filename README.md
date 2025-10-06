@@ -3,7 +3,7 @@
 > Official repository for the paper: **“A Survey on Audio-Visual Large Language Models”**  
 > Wenyi Yao, Roksana Yahyaabadi, Hossein Hassani, and Soodeh Nikan
 
-[Paper](./paper/Survey.pdf) · [Datasets](#2-datasets) · [Model List](#1-model-taxonomy)
+[Paper](./paper/Survey.pdf) · [Datasets](#datasets) · [Model List](#model-taxonomy)
 
 [![AV-LLMs timeline](figures/AV-LLMs.png)](figures/AV-LLMs.pdf)
 
@@ -20,15 +20,14 @@
 ---
 
 ## Table of Contents
-
-1. [Model Taxonomy](#1-model-taxonomy)  
-2. [Datasets](#2-datasets)
-3. [Performance Evaluation](#3-performance-evaluation)
-4. [Applications](#4-applications)
+- 🌳 [Model Taxonomy](#model-taxonomy)
+- 🗃️ [Datasets](#datasets)
+- 📊 [Performance Evaluation](#performance-evaluation)
+- 🧩 [Applications](#applications)
 
 ---
 
-## 1. Model Taxonomy
+## Model Taxonomy
 ![Model taxonomy overview](./figures/taxonomy.png)
 | Title                                                                                                 | Model            | Code                                                        | Paper                                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -81,7 +80,7 @@
 
 ---
 
-## 2. Datasets
+## Datasets
 | **Task**                  | **Dataset**                                                                                     | **Year** | **Modalities**                      | **Data Scale**                                       |
 | ------------------------- | ----------------------------------------------------------------------------------------------- | -------: | ----------------------------------- | ---------------------------------------------------- |
 | **Image–Text**            | [SBU](https://www.cs.rice.edu/~vo9/sbucaptions/)                                                |     2011 | Image, Text                         | 1M images with captions                              |
@@ -122,7 +121,7 @@
 
 ---
 
-## 3. Performance Evaluation
+## Performance Evaluation
 
 <p align="center">
   <img src="./figures/perf-vqa.png" alt="VideoQA accuracy" width="90%"><br/>
@@ -141,7 +140,7 @@
 
 ---
 
-## 4. Applications
+## Applications
 
 <p align="center">
   <img src="./figures/application.png" alt="Application landscape of AV-LLMs" width="50%">
