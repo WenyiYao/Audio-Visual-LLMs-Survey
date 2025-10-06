@@ -43,12 +43,12 @@ See [`./tables/datasets.csv`](./tables/datasets.csv) for *30 +* curated resource
 
 <p align="center">
   <img src="./figures/perf-vqa.png" alt="VideoQA accuracy" width="90%"><br/>
-  <em>(b) Open-ended / MC VideoQA accuracy.</em>
+  <em>(a) Open-ended / MC VideoQA accuracy.</em>
 </p>
 
 <p align="center">
   <img src="./figures/perf-retrieval.png" alt="Zero-shot retrieval R@1 across datasets" width="90%"><br/>
-  <em>(a) Zero-shot retrieval (T→V / V→T) R@1 on common benchmarks.</em>
+  <em>(b) Zero-shot retrieval (T→V / V→T) R@1 on common benchmarks.</em>
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ See [`./tables/datasets.csv`](./tables/datasets.csv) for *30 +* curated resource
 ## 4. Applications
 
 <p align="center">
-  <img src="./figures/application.png" alt="Application landscape of AV-LLMs" width="90%">
+  <img src="./figures/application.png" alt="Application landscape of AV-LLMs" width="50%">
 </p>
 
 ---
