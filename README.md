@@ -61,7 +61,7 @@ See [`./tables/datasets.csv`](./tables/datasets.csv) for *30 +* curated resource
 ## 4. Applications
 
 <p align="center">
-  <img src="./figures/applications.png" alt="Application landscape of AV-LLMs" width="90%">
+  <img src="./figures/application.png" alt="Application landscape of AV-LLMs" width="90%">
 </p>
 
 ---
