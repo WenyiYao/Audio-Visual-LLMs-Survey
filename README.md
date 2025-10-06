@@ -3,7 +3,7 @@
 > Official repository for the paper: **“A Survey on Audio-Visual Large Language Models”**  
 > Wenyi Yao, Roksana Yahyaabadi, Hossein Hassani, and Soodeh Nikan
 
-[Paper](./paper/Survey.pdf) · [Datasets](./dataset.md) · [Model List](./data/models.csv)
+[Paper](./paper/Survey.pdf) · [Datasets](#2-datasets) · [Model List](#1-model-taxonomy)
 
 [![AV-LLMs timeline](figures/AV-LLMs.png)](figures/AV-LLMs.pdf)
 
