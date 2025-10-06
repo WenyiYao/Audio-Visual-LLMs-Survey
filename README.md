@@ -25,7 +25,6 @@
 2. [Datasets](#2-datasets)
 3. [Performance Evaluation](#3-performance-evaluation)
 4. [Applications](#4-applications)
-5. [How to Cite](#5-how-to-cite) 
 
 ---
 
@@ -147,13 +146,4 @@
 <p align="center">
   <img src="./figures/application.png" alt="Application landscape of AV-LLMs" width="50%">
 </p>
-
----
-
-## 5. How to Cite
-```bibtex
-  number  = {x},
-  year    = {2025},
-  note    = {arXiv:2404.xxxxx}
-}
 
