@@ -1,9 +1,9 @@
 # A Survey on Audio-Visual Large Language Models (AV-LLMs)
 
-> Official repository for the paper: **“A Survey on Audio-Visual Large Language Models”**  
+> Official repository for the paper: [**“A Survey on Audio-Visual Large Language Models”**](https://doi.org/10.1016/j.knosys.2026.116569)  
 > Wenyi Yao, Roksana Yahyaabadi, Hossein Hassani, and Soodeh Nikan
 
-[Paper](https://doi.org/10.1016/j.knosys.2026.116569) · [Datasets](#datasets) · [Model List](#model-taxonomy)
+[Model List](#model-taxonomy) · [Datasets](#datasets)
 
 If you find this survey or repository useful, please cite the following paper:
 ```bibtex
