@@ -5,6 +5,22 @@
 
 [Paper](https://doi.org/10.1016/j.knosys.2026.116569) · [Datasets](#datasets) · [Model List](#model-taxonomy)
 
+If you find this survey or repository useful, please consider citing our work:
+
+```bibtex
+@article{YAO2026116569,
+title = {A survey on audio–visual large language models},
+journal = {Knowledge-Based Systems},
+volume = {350},
+pages = {116569},
+year = {2026},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2026.116569},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705126012955},
+author = {Wenyi Yao and Roksana Yahyaabadi and Hossein Hassani and Soodeh Nikan}
+}
+```
+
 [![AV-LLMs timeline](figures/AV-LLMs.png)](figures/AV-LLMs.pdf)
 
 ---
