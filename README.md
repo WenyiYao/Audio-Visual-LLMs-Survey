@@ -3,7 +3,7 @@
 > Official repository for the paper: [**“A Survey on Audio-Visual Large Language Models”**](https://doi.org/10.1016/j.knosys.2026.116569)  
 > Wenyi Yao, Roksana Yahyaabadi, Hossein Hassani, and Soodeh Nikan
 
-[Model List](#model-taxonomy) · [Model List](#model-list) · [Datasets](#datasets)
+[Model Overview](#model-overview) · [Model List](#model-list) · [Datasets](#datasets)
 
 If you find this survey or repository useful, please cite the following paper:
 ```bibtex
@@ -34,7 +34,7 @@ If you find this survey or repository useful, please cite the following paper:
 ---
 
 ## Table of Contents
-- 🌳 [Model Taxonomy](#model-taxonomy)
+- 🌳 [Model Overview](#model-overview)
 - 📋 [Model List](#model-list)
 - 🗃️ [Datasets](#datasets)
 - 📊 [Performance Evaluation](#performance-evaluation)
@@ -42,8 +42,8 @@ If you find this survey or repository useful, please cite the following paper:
 
 ---
 
-## Model Taxonomy
-![Model taxonomy overview](./figures/taxonomy.png)
+## Model Overview
+![Overview of state-of-the-art AV-LLMs](./figures/taxonomy.png)
 
 ## Model List
 | Title                                                                                                 | Model            | Code                                                        | Paper                                                                                                                                                                                        |
